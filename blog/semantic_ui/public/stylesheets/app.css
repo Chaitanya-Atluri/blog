@@ -1,0 +1,22 @@
+i.icon {
+	font-size: 1.3em;
+}
+
+
+.container.main
+{
+	margin-top:3.5em;
+}
+.container3
+{
+	margin-top:1.5em;
+}
+.descreption
+{
+	margin-bottom:2em;
+}
+
+#delete
+{
+	display : inline;
+}
